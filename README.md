@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">Frontend alchemist 🧪 | Mixing React.js with Tailwind CSS to create magic on the web.A passionate frontend developer from India</h3>
+<h3 align="center">A Frontend alchemist 🧪 from India 🇮🇳 | 
+  Mixing React.js with Tailwind CSS to create magic on the web.
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek16os&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek16os" /> </p>
 
